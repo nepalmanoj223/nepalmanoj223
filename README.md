@@ -13,9 +13,9 @@
   <img src="https://streak-stats.demolab.com?user=nepalmanoj223&theme=tokyonight" />
 </p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nepalmanoj223&theme=tokyo-night)
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nepalmanoj223/nepalmanoj223/blob/output/github-contribution-grid-snake.svg)
 
 [![](https://visitcount.itsvg.in/api?id=nepalmanoj223&icon=0&color=0)](https://visitcount.itsvg.in)
 

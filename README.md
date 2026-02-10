@@ -15,8 +15,4 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nepalmanoj223&theme=tokyo-night)
 
-![Snake animation](https://github.com/nepalmanoj223/nepalmanoj223/blob/output/github-contribution-grid-snake.svg)
 
-[![](https://visitcount.itsvg.in/api?id=nepalmanoj223&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

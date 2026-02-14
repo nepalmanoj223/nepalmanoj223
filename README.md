@@ -17,4 +17,6 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nepalmanoj223&theme=tokyo-night)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/nubnepal?theme=dark&font=Karma)
+
 

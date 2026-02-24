@@ -48,11 +48,9 @@
 
 ## 🧩 LeetCode
 
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/nubnepal?theme=dark&font=Karma&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nubnepal?theme=dark&font=Baloo&ext=contest" />
+</p>
 
 ---
 

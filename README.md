@@ -53,4 +53,11 @@
 </p>
 
 ---
+## 🧠 Codewars Stats
+
+<p align="center">
+  <a href="https://www.codewars.com/users/nubnepal">
+    <img src="https://github.r2v.ch/codewars?user=nubnepal" alt="Codewars Stats">
+  </a>
+</p>
 

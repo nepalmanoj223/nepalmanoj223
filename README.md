@@ -12,7 +12,7 @@
 - 🌱 Actively learning **Java, DSA, and AI basics**
 - 👯 Looking to collaborate on **small projects and coding practice**
 - 🤝 Seeking help with **understanding complex cybersecurity concepts**
-- ⚡ Fun fact: I break things to understand how they work
+- ⚡ Fun fact: I make things to understand how they work
 
 ---
 

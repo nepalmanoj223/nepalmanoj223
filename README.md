@@ -8,6 +8,7 @@
 
 ## 💫 About Me
 
+
 - 🔭 Currently working on **learning cybersecurity & practicing ethical hacking**
 - 🌱 Actively learning **Java, DSA, and AI basics**
 - 👯 Looking to collaborate on **small projects and coding practice**
